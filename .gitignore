@@ -1,1 +1,9 @@
+# Ignores environment files
 .env
+
+# Ignores log files and folders
+log/
+log/**
+
+# Ignores Python cache files and folders
+__pycache__/
