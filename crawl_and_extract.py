@@ -1,5 +1,7 @@
 import sys
-sys.path.append(r'C:/IT/crawl4AI/crawl_lib')
+import os
+# Add the crawl_lib directory to the Python path
+sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'crawl_lib'))
 
 from typing import List
 import asyncio
