@@ -1,0 +1,7 @@
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<WARNING-llm_manager.bedrock_manager> - ❌ Lỗi khi gọi mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 (thử lần 1): An error occurred (ValidationException) when calling the InvokeModel operation: The provided model identifier is invalid.
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 2) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<WARNING-llm_manager.bedrock_manager> - ❌ Lỗi khi gọi mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 (thử lần 2): An error occurred (ValidationException) when calling the InvokeModel operation: The provided model identifier is invalid.
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 3) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<WARNING-llm_manager.bedrock_manager> - ❌ Lỗi khi gọi mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 (thử lần 3): An error occurred (ValidationException) when calling the InvokeModel operation: The provided model identifier is invalid.

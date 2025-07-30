@@ -1,0 +1,83 @@
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 13.30 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 7.26 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 34.51 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<WARNING-llm_manager.bedrock_manager> - ❌ Lỗi khi gọi mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 (thử lần 1): An error occurred (ValidationException) when calling the InvokeModel operation: Input is too long for requested model.
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 2) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<WARNING-llm_manager.bedrock_manager> - ❌ Lỗi khi gọi mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 (thử lần 2): An error occurred (ValidationException) when calling the InvokeModel operation: Input is too long for requested model.
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 3) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<WARNING-llm_manager.bedrock_manager> - ❌ Lỗi khi gọi mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 (thử lần 3): An error occurred (ValidationException) when calling the InvokeModel operation: Input is too long for requested model.
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 10.54 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 12.20 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 20.67 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 16.78 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 6.89 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 15.83 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 14.74 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 13.01 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 7.34 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 20.78 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 16.49 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 14.96 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 7.02 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 17.70 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 23.08 giây
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-haiku-20241022-v1:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 26.07 giây

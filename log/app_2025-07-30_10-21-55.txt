@@ -1,0 +1,2 @@
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:us-east-1:538830382271:inference-profile/us.anthropic.claude-3-5-sonnet-20240620-v1:0

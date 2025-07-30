@@ -1,0 +1,4 @@
+<INFO-llm_manager.bedrock_manager> - 🚀 Đang gọi mô hình Bedrock...None
+<DEBUG-llm_manager.bedrock_manager> - 🔁 Gọi Bedrock (thử lần 1) model arn:aws:bedrock:ap-southeast-1:538830382271:inference-profile/apac.anthropic.claude-3-5-sonnet-20241022-v2:0
+<DEBUG-llm_manager.bedrock_manager> - [generate] ✅ Đã nhận phản hồi từ mô hình arn:aws:bedrock:ap-southeast-1:538830382271:inference-profile/apac.anthropic.claude-3-5-sonnet-20241022-v2:0 mà không có reasoning.
+<INFO-llm_manager.bedrock_manager> - [generate] Thời gian gọi mô hình claude (None): 8.61 giây
